@@ -1,5 +1,6 @@
 <!-- Header Section with Banner Image -->
-![Header Banner](https://link-to-your-banner-image.jpg) <!-- Upload your banner image to GitHub or use an external link -->
+![Header Banner](https://github.com/pujakuma/pujakuma/raw/main/github-header-image.png) <!-- Replace this with your actual URL -->
+ <!-- Upload your banner image to GitHub or use an external link -->
 
 # Hi there, I'm Puja Kumari 👋
 
