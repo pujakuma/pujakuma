@@ -4,9 +4,8 @@
 
 # Hi there, I'm Puja Kumari 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PujaKumari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pujakumari)
+[![LinkedIn](https://img.shields.io/badge/[LinkedIn-PujaKumari](https://www.linkedin.com/in/puja-kumari-7ba349192/)-blue?style=flat&logo=linkedin)](https://www.[linkedin.com/in/pujakumari](https://www.linkedin.com/in/puja-kumari-7ba349192/))
 [![GitHub](https://img.shields.io/badge/GitHub-PujaKumari-darkblue?style=flat&logo=github)](https://github.com/pujakuma)
-[![Twitter](https://img.shields.io/badge/Twitter-PujaKumari-1DA1F2?style=flat&logo=twitter)](https://twitter.com/pujakumari)
 
 ## 💻 About Me
 
