@@ -4,7 +4,7 @@
 
 # Hi there, I'm Puja Kumari 👋
 
-[![LinkedIn](https://img.shields.io/badge/[LinkedIn-PujaKumari](https://www.linkedin.com/in/puja-kumari-7ba349192/)-blue?style=flat&logo=linkedin)](https://www.[linkedin.com/in/pujakumari](https://www.linkedin.com/in/puja-kumari-7ba349192/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PujaKumari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/puja-kumari-7ba349192/)
 [![GitHub](https://img.shields.io/badge/GitHub-PujaKumari-darkblue?style=flat&logo=github)](https://github.com/pujakuma)
 
 ## 💻 About Me
@@ -100,5 +100,5 @@ I'm a passionate and skilled Software Developer with 7+ years of experience in b
 - [CodeSignal](https://codesignal.com/learn/profile/cm2hrxh9q00018nn9fjzqfkjd) ![CodeSignal](https://img.shields.io/badge/CodeSignal-PujaKumari-blue?style=flat&logo=codesignal&logoColor=white)
 - [TechDevGuide](https://techdevguide.withgoogle.com/profile/?no-filter=true) ![TechDevGuide](https://img.shields.io/badge/TechDevGuide-PujaKumari-darkblue?style=flat&logo=google&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PujaKumari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pujakumari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PujaKumari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/puja-kumari-7ba349192/)
 [![GitHub](https://img.shields.io/badge/GitHub-PujaKumari-darkblue?style=flat&logo=github)](https://github.com/pujakuma)
